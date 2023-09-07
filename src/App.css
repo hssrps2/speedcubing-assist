@@ -1,0 +1,34 @@
+.app-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.button-start {
+  background-color: #4caf50;
+}
+
+.button-cross {
+  background-color: #2196f3;
+}
+
+.button-f2l {
+  background-color: #ff9800;
+}
+
+.button-oll {
+  background-color: #e91e63;
+}
+
+.button-pll {
+  background-color: #9c27b0;
+}
+
+.button-start-again {
+  background-color: #607d8b;
+}
+
+.durations {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
